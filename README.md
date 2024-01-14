@@ -1,2 +1,2 @@
 A todo mobile app is created using react native and nativewind css... 
-It will deploy in apk
+https://expo.dev/artifacts/eas/rB9Tv7BKUqsXiEr6pMKRRu.apk
